@@ -19,4 +19,4 @@ There includes 2 android apps
  
  <i>* For more details in codes, please see <a href="https://github.com/MarshalLeeeeee/Smart-Car-Mobile-Control/blob/master/softwareIntro/software_Intro.txt" target="_blank"><b>softwareIntro</b></a><br/></i>
  
- <i>* If you want to visit our Chinese webpage, you can click <a href="http://eelab.sjtu.edu.cn/kc/2017-12/C31/index.html" target="_blank"><b>here</b></a><br/></i>
+ <i>* If you want to visit our Chinese webpage where you can see our testing video, you can click <a href="http://eelab.sjtu.edu.cn/kc/2017-12/C31/index.html" target="_blank"><b>here</b></a><br/></i>
