@@ -17,5 +17,5 @@ There includes 2 android apps
  <p>We send the control signal through the bluetooth.</p>
  <p>Still, user can see the instant view sent from <b>Driver</b>.</p>
  
- <i>* For more details in codes, please see <b>softwareIntro</b></i>
+ <i>* For more details in codes, please see <a href="https://github.com/MarshalLeeeeee/Smart-Car-Mobile-Control/blob/master/softwareIntro/software_Intro.txt" target="_blank"><b>softwareIntro</b></a><br/></i>
  
