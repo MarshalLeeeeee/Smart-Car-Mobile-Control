@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="前进"
+        android:id="@+id/forward"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/right"
+        android:layout_toStartOf="@+id/right" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="后退"
+        android:id="@+id/back"
+        android:layout_below="@+id/stop"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="停止"
+        android:id="@+id/stop"
+        android:layout_below="@+id/forward"
+        android:layout_toRightOf="@+id/left"
+        android:layout_toEndOf="@+id/left" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="左转"
+        android:id="@+id/left"
+        android:layout_below="@+id/forward"
+        android:layout_toLeftOf="@+id/forward"
+        android:layout_toStartOf="@+id/forward" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="右转"
+        android:id="@+id/right"
+        android:layout_above="@+id/back"
+        android:layout_toRightOf="@+id/back"
+        android:layout_toEndOf="@+id/back" />
+</RelativeLayout>
