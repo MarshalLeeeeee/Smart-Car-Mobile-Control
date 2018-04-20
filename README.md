@@ -26,5 +26,5 @@ There includes 2 android apps
   <li><a href="https://github.com/MarshalLeeeeee" target="_blank"><b>Minchao Li</b></a></li>
   <li><a href="https://github.com/QLightman" target="_blank"><b>Zhiwen Qiang</b></a></li>
   <li>Chenyi Wang</li>
-  <li>Jiamin Cui</li>
+  <li><a href="https://github.com/JiamingCui" target="_blank"><b>Zhiwen Qiang</b></a></li>
  </ul>
